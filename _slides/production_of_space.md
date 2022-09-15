@@ -9,6 +9,7 @@ height: 1080
 minScale: 0.2
 maxScale: 2.0
 disableLayout: true
+background-size:contain
 ---
 
 # The Production of Space
