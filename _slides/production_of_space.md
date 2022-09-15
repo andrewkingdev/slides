@@ -4,8 +4,8 @@ description: Use another theme (moon.css) and disable the progress bar at the bo
 theme: black
 progress: true
 transition: slide
-width: 1920
-height: 1080
+width: 512  
+height: 512
 minScale: 0.2
 maxScale: 2.0
 disableLayout: true
