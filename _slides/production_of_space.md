@@ -4,7 +4,7 @@ description: Use another theme (moon.css) and disable the progress bar at the bo
 animate: roll-in
 theme: black
 progress: true
-transition: concave
+transition: slide
 width: 1920
 height: 1080
 
