@@ -10,6 +10,6 @@ transition: concave
 # Andrew's Test Slide
 The Production of Space
 ---
-## Image slide
+# Image slide
 background: http://riichard.com/images/avatar_45_test.jpg
 ---
