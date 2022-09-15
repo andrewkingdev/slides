@@ -10,8 +10,6 @@ transition: concave
 
 # Andrew's Test Slide
 
----
-
 # [heartbeat 3x] Slide one [glass spin] 
 background-video: https://www.youtube.com/watch?v=YeqyR6ksA0w 
 {% comment %}background: auto detect based on extension of url or hex code, otherwise image {% endcomment %}
