@@ -2,7 +2,7 @@
 title: The Production of Space
 description: Use another theme (moon.css) and disable the progress bar at the bottom 
 animate: roll-in
-theme: league
+theme: black
 progress: true
 transition: concave
 width: 1920
