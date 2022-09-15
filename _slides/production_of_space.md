@@ -9,12 +9,13 @@ height: 1080
 minScale: 0.2
 maxScale: 2.0
 disableLayout: true
-
-
 ---
+
 # The Production of Space
 Andrew King
 Senior Lecturer
+background:red
+
 ---
 
 data-background-size="contain"
