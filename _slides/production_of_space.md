@@ -4,6 +4,8 @@ description: Use another theme (moon.css) and disable the progress bar at the bo
 theme: black
 progress: true
 transition: slide
+width: 1920
+height: 1080
 minScale: 0.2
 maxScale: 2.0
 disableLayout: false
@@ -23,7 +25,7 @@ River City Girls
 
 ---
 
-![RE3](https://user-images.githubusercontent.com/79170506/190502026-67124ee8-287d-42ef-b435-b5cea68939e7.jpg)
+![RE3](https://user-images.githubusercontent.com/79170506/190502026-67124ee8-287d-42ef-b435-b5cea68939e7.jpg){.r-stretch}
 
 Resident Evil 3
 
