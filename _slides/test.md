@@ -20,7 +20,7 @@ I should be ignored
 ```
 
 ## Image slide
-background: http://riichard.com/images/avatar_45_test.jpg
+background: http://riichard.com/images/avatar_45.jpg
 
 ---
 
