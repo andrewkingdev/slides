@@ -11,5 +11,6 @@ transition: concave
 ## The Production of Space
 ---
 # Image slide
-background: http://riichard.com/images/avatar_45.jpg
+background:![rivercitygirls](https://user-images.githubusercontent.com/79170506/190489026-3d5f7113-0596-49b1-9f53-ce687e1a611f.jpg)
+
 ---
