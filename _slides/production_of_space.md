@@ -17,7 +17,7 @@ Andrew King
 Senior Lecturer
 
 ---
-# Image slide
+# 
 background:https://user-images.githubusercontent.com/79170506/190489026-3d5f7113-0596-49b1-9f53-ce687e1a611f.jpg
 ![rivercitygirls](https://user-images.githubusercontent.com/79170506/190489026-3d5f7113-0596-49b1-9f53-ce687e1a611f.jpg)
 
