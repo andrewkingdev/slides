@@ -8,8 +8,8 @@ transition: concave
 
 ---
 # Andrew's Test Slide
-The Production of Space
+## The Production of Space
 ---
 # Image slide
-background: http://riichard.com/images/avatar_45_test.jpg
+background: http://riichard.com/images/avatar_45.jpg
 ---
